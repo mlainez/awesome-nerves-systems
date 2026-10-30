@@ -20,6 +20,7 @@ Want to add something to the list? Just send a PR :smiley:
 | Lenovo Tab3 7 Essential TB3-710F | [mlainez/nerves_system_lenovo_tb3_710f](https://github.com/mlainez/nerves_system_lenovo_tb3_710f) | 1.35.0 |
 | Microsoft Surface RT (2012) | [CoderDennis/nerves_system_surface_rt](https://github.com/CoderDennis/nerves_system_surface_rt) | 1.35.2 |
 | ELC SMT1019 wall tablet | [isaiahdw/nerves_system_smt1019](https://github.com/isaiahdw/nerves_system_smt1019) | 1.34.0 |
+| Google Nexus 5 | [m1dnight/nexus-5-nerves](https://pushin.eu/m1dnight/nexus-5-nerves) | 1.35.0 |
 
 ## Gaming consoles
 
