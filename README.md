@@ -10,7 +10,7 @@ Want to add something to the list? Just send a PR :smiley:
 
 | Device name | Nerves system | `nerves_system_br` version |
 | --- | --- | --- |
-| Fairphone 2 | [Spin42/nerves_system_fairphone2](https://github.com/Spin42/nerves_system_fairphone2) | 1.33.8 |
+| Fairphone 2 | [Spin42/nerves_system_fairphone2](https://github.com/Spin42/nerves_system_fairphone2) | 1.35.3 |
 | Fairphone 3 / 3+ | [mlainez/nerves_system_fp3](https://github.com/mlainez/nerves_system_fp3) | 1.35.0 |
 | HTC Desire | [arjan/nerves_system_bravo](https://github.com/arjan/nerves_system_bravo) | 1.34.4 |
 | Samsung Galaxy Express SGH-I437 | [mlainez/nerves_system_samsung_expressatt](https://github.com/mlainez/nerves_system_samsung_expressatt) | 1.35.3 |
@@ -70,7 +70,7 @@ Want to add something to the list? Just send a PR :smiley:
 | Pastigio FRAME156 digital photo frame | [bbangert/nerves_system_rk3326_frame156](https://github.com/bbangert/nerves_system_rk3326_frame156) | 1.35.2 |
 | AEEZO PF1007L digital photo frame | [chgeuer/nerves_pf1007l_pictureframe](https://github.com/chgeuer/nerves_pf1007l_pictureframe) | 1.35.2 |
 | AEEZO PF1007L digital photo frame | [m1dnight/nerves_system_pf1007l](https://pushin.eu/m1dnight/nerves_system_pf1007l) | 1.35.0 |
-| Mobvoi TicWatch Pro 3 (GPS / LTE) | [mlainez/nerves_system_tickwatch_pro3](https://github.com/mlainez/nerves_system_tickwatch_pro3) | 1.34.4 |
+| Mobvoi TicWatch Pro 3 (GPS / LTE) | [mlainez/nerves_system_tickwatch_pro3](https://github.com/mlainez/nerves_system_tickwatch_pro3) | 1.35.1 |
 | Kobo Clara Colour | [Spin42/nerves_system_kobo_clara_colour](https://github.com/Spin42/nerves_system_kobo_clara_colour) | ~> 1.34 (locked to 1.34.0) |
 | LEGO Mindstorms EV3 | [nerves-project-attic/nerves_system_ev3](https://github.com/nerves-project-attic/nerves_system_ev3) | 1.4.5 |
 | SONOFF NSPanel Pro 86 | [jmerriweather/nerves_system_nspanel86pw](https://github.com/jmerriweather/nerves_system_nspanel86pw) | 1.34.0 |
