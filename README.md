@@ -73,6 +73,7 @@ Want to add something to the list? Just send a PR :smiley:
 | AEEZO PF1007L digital photo frame | [m1dnight/nerves_system_pf1007l](https://pushin.eu/m1dnight/nerves_system_pf1007l) | 1.35.0 |
 | Mobvoi TicWatch Pro 3 (GPS / LTE) | [mlainez/nerves_system_tickwatch_pro3](https://github.com/mlainez/nerves_system_tickwatch_pro3) | 1.35.1 |
 | Kobo Clara Colour | [Spin42/nerves_system_kobo_clara_colour](https://github.com/Spin42/nerves_system_kobo_clara_colour) | ~> 1.34 (locked to 1.34.0) |
+| Intel Compute Stick 2nd gen (STK1AW32SC, STK1A32SC) | [mlainez/nerves_system_intel_compute_stick](https://github.com/mlainez/nerves_system_intel_compute_stick) | 1.35.3 |
 | LEGO Mindstorms EV3 | [nerves-project-attic/nerves_system_ev3](https://github.com/nerves-project-attic/nerves_system_ev3) | 1.4.5 |
 | SONOFF NSPanel Pro 86 | [jmerriweather/nerves_system_nspanel86pw](https://github.com/jmerriweather/nerves_system_nspanel86pw) | 1.34.0 |
 | OpenWrt One router | [Hermanverschooten/nerves_system_openwrt_one](https://github.com/Hermanverschooten/nerves_system_openwrt_one) | 1.33.7 |
