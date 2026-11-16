@@ -65,7 +65,7 @@ Want to add something to the list? Just send a PR :smiley:
 | Device name | Nerves system | `nerves_system_br` version |
 | --- | --- | --- |
 | Mac PowerPC G4 | [james/nerves_system_powermac_g4](https://harton.dev/james/nerves_system_powermac_g4) | 1.35.3 |
-| Spotify Car Thing | [ericr3r/nerves_system_superbird](https://github.com/ericr3r/nerves_system_superbird) | ~> 1.30.1 (locked to 1.30.1) |
+| Spotify Car Thing | [ericr3r/nerves_system_superbird](https://github.com/ericr3r/nerves_system_superbird) | 1.35.3 |
 | Atom Cam 2 / Wyze Cam v3 | [piyopiyoex/nerves_system_atomcam2](https://github.com/piyopiyoex/nerves_system_atomcam2) | ~> 1.33 (locked to 1.34.0) |
 | Sharp Brain PW-SH6 electronic dictionary | [piyopiyoex/nerves_system_brain](https://github.com/piyopiyoex/nerves_system_brain) | 1.34.3 |
 | Pastigio FRAME156 digital photo frame | [bbangert/nerves_system_rk3326_frame156](https://github.com/bbangert/nerves_system_rk3326_frame156) | 1.35.2 |
