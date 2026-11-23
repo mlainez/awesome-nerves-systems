@@ -76,7 +76,7 @@ Want to add something to the list? Just send a PR :smiley:
 | Intel Compute Stick 2nd gen (STK1AW32SC, STK1A32SC) | [mlainez/nerves_system_intel_compute_stick](https://github.com/mlainez/nerves_system_intel_compute_stick) | 1.35.3 |
 | LEGO Mindstorms EV3 | [nerves-project-attic/nerves_system_ev3](https://github.com/nerves-project-attic/nerves_system_ev3) | 1.4.5 |
 | SONOFF NSPanel Pro 86 | [jmerriweather/nerves_system_nspanel86pw](https://github.com/jmerriweather/nerves_system_nspanel86pw) | 1.34.0 |
-| OpenWrt One router | [Hermanverschooten/nerves_system_openwrt_one](https://github.com/Hermanverschooten/nerves_system_openwrt_one) | 1.33.7 |
+| OpenWrt One router | [Hermanverschooten/nerves_system_openwrt_one](https://github.com/Hermanverschooten/nerves_system_openwrt_one) | 1.35.3 |
 | JSLinux browser emulator | [fhunleth/nerves_system_jslinux](https://github.com/fhunleth/nerves_system_jslinux) | 1.21.2 |
 | Yokogawa e-RT3 F3RP70 industrial controller | [pojiro/nerves_system_f3rp70](https://github.com/pojiro/nerves_system_f3rp70) | 1.20.3 |
 | ConeRGB Underglow3 LED controller | [ConnorRigby/nerves_system_underglow3](https://github.com/ConnorRigby/nerves_system_underglow3) | 1.27.0 |
