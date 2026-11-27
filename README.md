@@ -22,6 +22,7 @@ Want to add something to the list? Just send a PR :smiley:
 | ELC SMT1019 wall tablet | [isaiahdw/nerves_system_smt1019](https://github.com/isaiahdw/nerves_system_smt1019) | 1.34.0 |
 | Google Nexus 5 | [m1dnight/nexus-5-nerves](https://pushin.eu/m1dnight/nexus-5-nerves) | 1.35.0 |
 | Samsung Galaxy Tab 3 7.0 | [m1dnight/nerves_system_galaxy_tab_3](https://pushin.eu/m1dnight/nerves_system_galaxy_tab_3) | 1.35.3 |
+| Samsung S20 (Exynos 990) | [m1dnight/nerves_system_samsung_x1s](https://github.com/m1dnight/nerves_system_samsung_x1s) | 1.35.3 |
 
 ## Gaming consoles
 
