@@ -39,6 +39,7 @@ Want to add something to the list? Just send a PR :smiley:
 | Device name | Nerves system | `nerves_system_br` version |
 | --- | --- | --- |
 | Arduino UNO Q | [jimsynz/nerves_system_arduino_uno_q](https://github.com/jimsynz/nerves_system_arduino_uno_q) | 1.35.3 |
+| Arduino Ventuno Q | [https://github.com/Spin42/nerves_system_arduino_ventuno_q](https://github.com/Spin42/nerves_system_arduino_ventuno_q) | 1.35.3 |
 | Particle Tachyon | [ringvold/nerves_system_tachyon](https://github.com/ringvold/nerves_system_tachyon) | 1.34.1 |
 | NVIDIA Jetson Orin Nano | [isaiahdw/nerves_system_jetson_orin_nano](https://github.com/isaiahdw/nerves_system_jetson_orin_nano) | 1.34.0 |
 | Luckfox Pico Mini | [aiotter/nerves_system_luckfox_pico](https://github.com/aiotter/nerves_system_luckfox_pico) | 1.33.2 |
